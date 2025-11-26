@@ -161,8 +161,4 @@ Configurable TTL (CACHE_TTL_MS) and size (CACHE_MAX_ENTRIES)
 ✨ Credits
 
 Built by Vaishnavi Gerange
-<<<<<<< HEAD
-Feel free to customize, extend, or add features!
-=======
-Feel free to customize, extend, or add features!
->>>>>>> f9fe0c6 (Project cleanup: move gitignore to root, add README, remove backend gitignore/README)
+
