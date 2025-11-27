@@ -68,7 +68,8 @@ Node.js (LTS recommended)
 npm
 
 AQICN API Token → get from:
-https://aqicn.org/data-platform/token/
+https://aqicn.org/data-platform/token/ 
+and insert it in your .env file.
 
 🖥️ Backend Setup (Local)
 
